@@ -1,2 +1,2 @@
-# Find_The_Pet_Game
+# Find The Pet
 The game which is played using terminal. Main goal: to reach the pet avoiding blocks.
